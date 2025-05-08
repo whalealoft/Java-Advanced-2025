@@ -1,13 +1,13 @@
-package com.course.module1;
+package com.course.task1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Module1Application {
+public class Task1Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Module1Application.class, args);
+		SpringApplication.run(Task1Application.class, args);
 	}
 
 }

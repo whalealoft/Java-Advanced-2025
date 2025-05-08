@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.course</groupId>
-	<artifactId>module1</artifactId>
+	<artifactId>task1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>module1</name>
+	<name>task1</name>
 	<description>SpringBoot Task 1 - Hello-world application</description>
 	<url/>
 	<licenses>
